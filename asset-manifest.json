@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mi-sistema/static/css/main.47dbac5e.css",
+    "main.js": "/mi-sistema/static/js/main.97dac98e.js",
+    "static/js/239.82f0e32f.chunk.js": "/mi-sistema/static/js/239.82f0e32f.chunk.js",
+    "static/js/977.c075f3d0.chunk.js": "/mi-sistema/static/js/977.c075f3d0.chunk.js",
+    "static/js/732.dbd2ffe3.chunk.js": "/mi-sistema/static/js/732.dbd2ffe3.chunk.js",
+    "static/js/453.a58ea47c.chunk.js": "/mi-sistema/static/js/453.a58ea47c.chunk.js",
+    "static/media/loging_logo.png": "/mi-sistema/static/media/loging_logo.299eb3896833410a0c22.png",
+    "index.html": "/mi-sistema/index.html",
+    "main.47dbac5e.css.map": "/mi-sistema/static/css/main.47dbac5e.css.map",
+    "main.97dac98e.js.map": "/mi-sistema/static/js/main.97dac98e.js.map",
+    "239.82f0e32f.chunk.js.map": "/mi-sistema/static/js/239.82f0e32f.chunk.js.map",
+    "977.c075f3d0.chunk.js.map": "/mi-sistema/static/js/977.c075f3d0.chunk.js.map",
+    "732.dbd2ffe3.chunk.js.map": "/mi-sistema/static/js/732.dbd2ffe3.chunk.js.map",
+    "453.a58ea47c.chunk.js.map": "/mi-sistema/static/js/453.a58ea47c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47dbac5e.css",
+    "static/js/main.97dac98e.js"
+  ]
+}
